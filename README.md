@@ -1,8 +1,8 @@
 # project2
- list pagination
+ <h1>list pagination</h1>
 
-This project is to list ten students per page with pagination links.
-The project includes the following functions:
-showPage(): To show ten students per page
-appendPageLinks(): To create pagination links
+<p>This project is to list ten students per page with pagination links.<br>
+The project includes the following functions:<br>
+showPage(): To show ten students per page <br>
+appendPageLinks(): To create pagination links <br> </p>
 
